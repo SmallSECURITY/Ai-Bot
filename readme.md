@@ -1,4 +1,4 @@
-![My Image](https://github.com/SmallSECURITY/Ai_chat_bot/blob/main/ChatGPT%20Image%20Aug%2015,%202025,%2004_27_54%20AM.png?raw=true)
+![My Image](https://github.com/SmallSECURITY/Ai-Bot/blob/main/Aichat.png?raw=true)
 # Persian Assistant Bot – ربات دستیار فارسی
 
 ---
